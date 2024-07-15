@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DBLG/FileContentIndex/3c4eb03d-1a48-4c54-b84e-d2e47c3942ba.vsidx
+/.vs/DBLG/v17/.wsuo
+/.vs/DBLG/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/DynamicsFunctions/.dockerignore
+/DynamicsFunctions/.vs/DynamicsFunctions/DesignTimeBuild/.dtbcache.v2
+/DynamicsFunctions/.vs/DynamicsFunctions/FileContentIndex/3692f9cb-e6e7-461d-a4f9-c3222916ac49.vsidx
+/DynamicsFunctions/.vs/DynamicsFunctions/FileContentIndex/5f129a63-9e1f-406d-b6ea-1ac2dc569cab.vsidx
+/DynamicsFunctions/.vs/DynamicsFunctions/FileContentIndex/6d000e99-d6a2-499a-8ab2-f385bbc45759.vsidx
+/DynamicsFunctions/.vs/DynamicsFunctions/FileContentIndex/aaa0bde4-e05d-475f-993c-802542281407.vsidx
+/DynamicsFunctions/.vs/DynamicsFunctions/v17/.suo
+/DynamicsFunctions/.vs/DynamicsFunctions/v17/DocumentLayout.json
